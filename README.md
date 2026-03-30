@@ -20,9 +20,9 @@ This repository contains the five shell scripts for my Open Source Software caps
 * [cite_start]**Script 5 (`script5_manifesto.sh`)**: An interactive script that asks the user three questions about open source and saves the answers into a `.txt` file using output redirection[cite: 185, 186].
 
 ## Requirements
-* [cite_start]A Linux environment (Ubuntu, Debian, Fedora, etc.)[cite: 92].
+* A Linux environment (Ubuntu, Debian, Fedora, etc.).
 * Bash shell.
-* [cite_start]**Apache HTTP Server** should be installed for scripts 2 and 3 to show full results[cite: 66].
+* Apache HTTP Server should be installed for scripts 2 and 3 to show full results.
 
 ## How to Run the Code
 
